@@ -1,1 +1,5 @@
-go_binary()
+go_binary(
+    dependencies=[
+        'src/thrift'
+    ]
+)
