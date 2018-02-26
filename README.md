@@ -1,3 +1,5 @@
+*FIXED IN https://github.com/pantsbuild/pants/issues/5453*
+
 # pants-go-thrift-issue
 Repo to help troubleshoot using thrift with go.
 
